@@ -1,0 +1,8 @@
+# robotstxt.org/
+
+User-agent: *
+Disallow: /old/
+Disallow: /blog
+Disallow: /blog.html
+Disallow: /post
+Disallow: /post.html
